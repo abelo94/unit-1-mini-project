@@ -1,0 +1,14 @@
+body {
+    font-family: 'Franklin Gothic Medium', sans-serif;
+
+}
+
+header {
+    text-align: right;
+    height: 100px;
+    width: 100%;
+    /* Sets border to bottom only */
+    border-bottom: 10px solid darkblue;
+    background-color: #999900;
+    position: absolute;
+}
